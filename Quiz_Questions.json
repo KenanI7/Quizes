@@ -1,0 +1,66 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the purpose of the 'break' statement in a loop?",
+      "choices": [
+        "To skip the rest of the loop and move to the next iteration.",
+        "To terminate the loop and move to the next statement after the loop.",
+        "To continue to the next iteration of the loop.",
+        "To pause the loop execution temporarily.",
+        "To restart the loop from the beginning.",
+        "To print the current loop index."
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following languages is not a statically-typed language?",
+      "choices": [
+        "Java",
+        "C++",
+        "Python",
+        "C#",
+        "Swift"
+      ],
+      "correctAnswer": "4"
+    },
+    {
+      "id": 3,
+      "question": "What is the primary purpose of the 'finally' block in a try-catch-finally statement?",
+      "choices": [
+        "To catch and handle exceptions.",
+        "To define code that will always be executed, whether an exception is thrown or not.",
+        "To specify conditions under which an exception should be caught.",
+        "To ensure that the catch block is always executed.",
+        "To create a loop that repeats until a certain condition is met."
+      ],
+      "correctAnswer": "2"
+    },
+    {
+      "id": 4,
+      "question": "In object-oriented programming, what is polymorphism?",
+      "choices": [
+        "The ability of an object to take on multiple forms.",
+        "The process of encapsulating data and methods within a class.",
+        "The concept of hiding the internal implementation of an object.",
+        "The practice of writing a function in multiple programming languages.",
+        "The technique of breaking a program into smaller, manageable parts."
+      ],
+      "correctAnswer": "1"
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a dynamically-typed programming language?",
+      "choices": [
+        "C",
+        "C++",
+        "Java",
+        "Python",
+        "Swift"
+      ],
+      "correctAnswer": "4"
+    }
+  ]
+}
+
